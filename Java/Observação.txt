@@ -1,0 +1,1 @@
+cada pasta terá uma anotação com observações indicando qual o tipo de projeto e por que foi criado.

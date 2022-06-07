@@ -1,0 +1,4 @@
+Este é um projeto utilizando ICrud aplicando as tecnicas de layout e a ligação do layout com o backEnd.
+-Criação de formulário
+-utilizando método incluir para para Salvar apartir do formulário
+-utilizando método tecnicas de layout e o método Listar. 
