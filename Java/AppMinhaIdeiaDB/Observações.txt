@@ -1,0 +1,3 @@
+Projeto criado para fins de estudo utilizando a estrutura MVC(model,view,controller)
+-adicionando os método incluir,alterar,deletar,listar na controller
+-adicionando a tabela no ClienteModel

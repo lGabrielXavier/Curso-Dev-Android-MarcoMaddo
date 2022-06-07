@@ -1,0 +1,4 @@
+Projeto de teste para treinar o ligamento dos botões com o backEnd
+-inserindo nome
+-utilizando textUil.isEmpty para não deixar ficar em branco
+-utizando setError para indica oque deve ser preenchindo
